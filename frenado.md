@@ -20,7 +20,7 @@ Como aprovechar mejor el frenado.
 
 8. Cargar el peso en el pedal exterior e inclinar la interior.
 
-   <img src="images/danny.png" alt="3" style="width:80%;" />
+   <img src="images/danny.png" alt="frenado" style="width:50%;" />
 
    
 
