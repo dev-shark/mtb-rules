@@ -4,7 +4,7 @@ Como aprovechar mejor el frenado.
 
 1. Bajar la presion de la llanta delantera  -20-23 psi- al tener muy inflada la llanta delantera se pierde la tracción y la llanta se va de largo.Una buena tracción  es necesaria, la trasera necesita mayor presión para aguantar las piedras y raices.
 
-   <img src="images/psi.jpeg" alt="150" style="zoom:50%;" />
+   <img src="images/psi.jpeg" alt="frenado" style="width:50%;" />
 
 2. Los frenos son importantes : Magura mt7, frenos de 4 pistones, muy buena potencia de frenado, manetas hc3 muy regulables.Frenar con un dedo -indice- , hay mayor fuerza para agarrar el manubrio , tiene varios ajustes para dejarla comoda al usuario.
 
@@ -20,7 +20,7 @@ Como aprovechar mejor el frenado.
 
 8. Cargar el peso en el pedal exterior e inclinar la interior.
 
-   <img src="images/danny.png" alt="3" style="zoom:80%;" />
+   <img src="images/danny.png" alt="3" style="width:80%;" />
 
    
 
