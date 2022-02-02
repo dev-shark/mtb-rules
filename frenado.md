@@ -12,15 +12,21 @@ Como aprovechar mejor el frenado.
 
 4. Frenar de manera constante, no un frenado irregular y mantener siempre la velocidad, de esa manera se puede reaccionar a tiempo en una curva. Ir viendo al frente todo el tiempo , frenar de manera constante y no de golpe.Recuerda, lo vital en un viraje es la velocidad de salida, no la de entrada.
 
-5. Ir parado  en el centro de la bicicleta, haciendo mucho esfuerzo con las piernas y amortiguando con los brazos. Si van muy atras le quitan traccion a la rueda de adelante. Cuanto más bajo sea el centro de gravedad, más deprisa tomarás la curva
+5. Ir parado  en el centro de la bicicleta, haciendo mucho esfuerzo con las piernas y amortiguando con los brazos. Si van muy atras le quitan traccion a la rueda de adelante. Cuanto más bajo sea el centro de gravedad, más deprisa tomarás la curva,Nunca perder la tracción.
 
 6. Esta es una de las técnicas  más fáciles de aprender, solo tienes que doblar ligeramente las rodillas y los brazos al mismo tiempo que bajas tu pecho hacia la bici. Notarás  una gran diferencia en cuanto a estabilidad y control, así que merece la pena que practiques esta técnica todo lo que puedas.
 
-7. Cambiar la velocidad antes de la curva y no despues , es decir si vas a salir con fuerza ya debes tener el cambio  listo para pedalear y ganar velocidad. La clave es pensar con antelación 
+7. Cambiar la velocidad (Frenar) antes de la curva y no despues , es decir si vas a salir con fuerza ya debes tener el cambio  listo para pedalear y ganar velocidad. La clave es pensar con antelación 
 
 8. Cargar el peso en el pedal exterior e inclinar la interior.
 
-   <img src="images/danny.png" alt="frenado" style="width:50%;" />
+9. Analizar bien la linea , saber donde frenar y donde soltar , parte de la tecnica es ver por donde van a pasar las ruedas, donde frenar fuerte y donde soltar.
 
-   
+10. Buscar lineas directas y no complicadas , donde no este suelta , velocidad constante , lo mas importante es el frenado y la posicion de cuerpo, Echar el cuerpo para atras en lineas empinadas pero haciendo presión  hacia el suelo en la llanta delantera para no perdr tracción. Los dos frenos a la misma fuerza --controlar el freno --
+
+11. 
+
+    <img src="images/danny.png" alt="frenado" style="width:50%;" />
+
+    
 
