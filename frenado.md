@@ -4,7 +4,7 @@ Como aprovechar mejor el frenado.
 
 1. Bajar la presion de la llanta delantera  -20-23 psi- al tener muy inflada la llanta delantera se pierde la tracción y la llanta se va de largo.Una buena tracción  es necesaria, la trasera necesita mayor presión para aguantar las piedras y raices.
 
-   <img src="images/psi.jpeg" alt="frenado" style="width:50%;" />
+   <img src="images/psi.jpeg" alt="frenado" style="width:400px" />
 
 2. Los frenos son importantes : Magura mt7, frenos de 4 pistones, muy buena potencia de frenado, manetas hc3 muy regulables.Frenar con un dedo -indice- , hay mayor fuerza para agarrar el manubrio , tiene varios ajustes para dejarla comoda al usuario.
 
@@ -24,9 +24,11 @@ Como aprovechar mejor el frenado.
 
 10. Buscar lineas directas y no complicadas , donde no este suelta , velocidad constante , lo mas importante es el frenado y la posicion de cuerpo, Echar el cuerpo para atras en lineas empinadas pero haciendo presión  hacia el suelo en la llanta delantera para no perdr tracción. Los dos frenos a la misma fuerza --controlar el freno --
 
-11. 
+11. Otro detalle importante  son los rotores o discos de freno, mientras mas grande es el rotor  es mayor potencia de frenado, el delantero es mas grande que el trasero. EL freno delantero es el que te baja la velocidad., frenar con un solo dedo , parado en el centro de la bici , haciendo presion en la llanta delantera.
 
-    <img src="images/danny.png" alt="frenado" style="width:50%;" />
+12. importante tener en buen estado los frenos , purgado y los discos limpios sin contaminación.
+
+    <img src="images/danny.png" alt="frenado" style="width:400px" />
 
     
 
